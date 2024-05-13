@@ -6,4 +6,4 @@ Discover an extraordinary gaming experience with Nuxt Lab! We proudly present an
 
 ## Contact Us
 
-Join our [Discord](https://discord.gg/fcNrD3XNdv) for updates, support and special discounts!
+Join our [Discord Server](https://discord.gg/fcNrD3XNdv) for updates, support and special discounts!
